@@ -8,7 +8,7 @@
 The classic Minecraft space mod, rewritten from the ground up for modern versions of the game.
 
 ## Addon Development
-For information regarding addon development please see the [GalacticraftAPI](https://github.com/TeamGalacticraft/GalacticraftAPI) repository.
+For information regarding addon development please see the [GalacticraftAPI](https://github.com/TeamGalacticraft/GalacticraftAPI) repository
 
 ## Common Questions
 Here we answer a few common questions we get regarding the release of the mod.\
