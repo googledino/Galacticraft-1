@@ -5,7 +5,7 @@
 [![](https://img.shields.io/twitch/status/galacticraftdev.svg?style=flat-square&logo=twitch&logoColor=azure)](https://twitch.tv/galacticraftdev)
 
 # Galacticraft 5
-The classic Minecraft space mod, rewritten from the ground up for modern versions of the game.
+The classic Minecraft space mod, rewritten from the ground up for pee versions of meeee
 
 ## Addon Development
 For information regarding addon development please see the [GalacticraftAPI](https://github.com/TeamGalacticraft/GalacticraftAPI) repository
